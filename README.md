@@ -1,2 +1,2 @@
 # alarm-clock
-An alarm app which gives and for the time set by the user
+An alarm app which gives an alert for the time set by the user
